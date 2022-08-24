@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/sanityyt/node_modules
+/sanityyt/dist
 /.pnp
 .pnp.js
 
